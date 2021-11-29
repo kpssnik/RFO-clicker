@@ -1,0 +1,10 @@
+E:\Programming\PROJECTS\RFO_Clicker\RFO_Clicker\bin\Debug\RFO_Clicker.exe.config
+E:\Programming\PROJECTS\RFO_Clicker\RFO_Clicker\bin\Debug\RFO_Clicker.exe
+E:\Programming\PROJECTS\RFO_Clicker\RFO_Clicker\bin\Debug\RFO_Clicker.pdb
+E:\Programming\PROJECTS\RFO_Clicker\RFO_Clicker\obj\Debug\RFO_Clicker.csproj.AssemblyReference.cache
+E:\Programming\PROJECTS\RFO_Clicker\RFO_Clicker\obj\Debug\RFO_Clicker.MainForm.resources
+E:\Programming\PROJECTS\RFO_Clicker\RFO_Clicker\obj\Debug\RFO_Clicker.Properties.Resources.resources
+E:\Programming\PROJECTS\RFO_Clicker\RFO_Clicker\obj\Debug\RFO_Clicker.csproj.GenerateResource.cache
+E:\Programming\PROJECTS\RFO_Clicker\RFO_Clicker\obj\Debug\RFO_Clicker.csproj.CoreCompileInputs.cache
+E:\Programming\PROJECTS\RFO_Clicker\RFO_Clicker\obj\Debug\RFO_Clicker.exe
+E:\Programming\PROJECTS\RFO_Clicker\RFO_Clicker\obj\Debug\RFO_Clicker.pdb
