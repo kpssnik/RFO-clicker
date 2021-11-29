@@ -162,6 +162,8 @@ namespace RFO_Clicker
             this.MaximizeBox = false;
             this.Name = "MainForm";
             this.Text = "RFO Clicker";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.MainForm_FormClosing);
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.MainForm_FormClosed);
             this.ResumeLayout(false);
             this.PerformLayout();
 

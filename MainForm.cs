@@ -94,6 +94,15 @@ namespace RFO_Clicker
 
             pressButtonPicker.SelectedItem = Config.PressButton;
         }
-    
+
+        private void MainForm_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            Clicker.IsMainFormClosed = true;
+        }
+
+        private void MainForm_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            Clicker.IsMainFormClosed = true;
+        }
     }
 }
